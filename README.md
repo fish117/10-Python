@@ -1,4 +1,4 @@
-# 10-Python
+CDA---Python
 人工智障 
 CDA
 星期一	北京西二旗	Python编程基础	Python编程基础
