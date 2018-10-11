@@ -1,0 +1,40 @@
+1. 讲了软件的基本操作
+
+2. 英语
+
+print()
+
+input()
+
+int
+
+float
+
+str
+
+bool
+
+complex
+
+max
+
+min
+
+sum
+
+round
+
+math.sqrt
+
+len  --- length
+
+list
+
+pow()
+    
+type()
+
+
+
+
+
